@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h3 align="center">Driven Software Engineer Passionate About Machine Learning and Cloud Computing.</h3>
 
 - 🌱 Studying at **Georgia Institute of Technology**
 
