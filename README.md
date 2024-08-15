@@ -2,7 +2,7 @@
 
 - 🌱 Studying at **Georgia Institute of Technology**
 
-- 👨‍💻 Work Profiles [https://github.com/shravan-ch](https://github.com/shravan-ch)
+- 👨‍💻 Work Profiles [shravan-ch/dexcom](https://github.com/shravan-ch), [scheekati-circle](https://github.com/scheekati-circle)
 
 - 📫 How to reach me **shravancheekati1@gmail.com**
 
